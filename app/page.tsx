@@ -309,9 +309,8 @@ export default function Page() {
           </div>
           <p className="demo-note">
             Página de muestra — propuesta de diseño web preparada por{" "}
-            <a href="mailto:carlosreyesafk@gmail.com">Carlos Reyes</a>. Los
-            servicios mostrados son categorías generales de odontología y pueden
-            ajustarse a la oferta real de la clínica.
+            NexoDev. Los servicios mostrados son categorías generales de
+            odontología y pueden ajustarse a la oferta real de la clínica.
           </p>
         </div>
       </footer>
